@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352221264677",
+    "project_id": "pataservice-132be",
+    "storage_bucket": "pataservice-132be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352221264677:android:c8f143b75e1a734765f8cc",
+        "android_client_info": {
+          "package_name": "com.example.pataservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Mvqi7GkC76romcSaDWIEu3UqqupNNtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

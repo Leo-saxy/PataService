@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+        <TextView
+            android:id="@+id/tvProviderWelcome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Provider Dashboard"
+            android:textSize="26sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/btnAddService"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Service"
+            android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/btnProviderAppointments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Appointments"
+        android:layout_marginTop="12dp"/>
+
+    <Button
+        android:id="@+id/btnProviderLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:layout_marginTop="12dp"/>
+</LinearLayout>
